@@ -1,5 +1,5 @@
 require 'rspec'
-require 'rspec/its'
+#require 'rspec/its'
 require_relative '../module2_lesson3_formative.rb'
 
 describe "lesson3" do
